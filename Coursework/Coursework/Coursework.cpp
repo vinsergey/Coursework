@@ -3,6 +3,7 @@
 
 int main()
 {
+	_gettch();
     return 0;
 }
 
